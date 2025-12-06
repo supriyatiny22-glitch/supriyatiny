@@ -23,3 +23,4 @@ The main purpose of this text summarisation tool is to reduce lengthy documents 
 Working on this project has given me a clearer understanding of how machine learning and natural language processing can solve real-world problems. I learned how to collect code from online platforms, how to use Python to implement it, and how summarisation models help in extracting key ideas from long text. Overall, this project has improved my technical skills, enhanced my learning experience, and shown me how useful text summarisation tools can be in daily academic and professional work.
 
 #OUTPUT
+<img width="1467" height="742" alt="Image" src="https://github.com/user-attachments/assets/117654d5-aa68-4411-94a3-5506e461aaf8" />
